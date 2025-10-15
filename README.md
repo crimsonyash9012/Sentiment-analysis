@@ -1,11 +1,10 @@
-# SentiFlow - IMDB Movie Review Sentiment Analyzer
+# Good Movie Bad Movie - IMDB Movie Review Sentiment Analyzer
 
-A production-ready sentiment analysis web application that classifies movie reviews as positive or negative using machine learning. Built with scikit-learn and Flask, this project demonstrates end-to-end ML workflow from data preprocessing to model deployment.
+A production-ready sentiment analysis that classifies movie reviews as positive or negative using machine learning. Built with scikit-learn and Flask, this project demonstrates end-to-end ML workflow from data preprocessing to model deployment.
 
 ## 🌟 Features
 
 - **Machine Learning Pipeline**: Complete ML pipeline with data preprocessing, feature engineering, and model training
-- **Web Interface**: Flask-based web application for real-time sentiment prediction
 - **High Accuracy**: Logistic Regression model trained on IMDB dataset with TF-IDF vectorization
 - **Comprehensive Analysis**: Jupyter notebooks documenting the entire development process
 - **Modular Architecture**: Clean separation of concerns with dedicated modules for data loading, preprocessing, and evaluation
@@ -160,14 +159,6 @@ python unittest_file.py
 - [ ] Add REST API endpoints
 - [ ] Implement batch prediction
 - [ ] Add model monitoring and retraining pipeline
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 👤 Author
 
