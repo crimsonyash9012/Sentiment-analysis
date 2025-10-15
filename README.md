@@ -1,4 +1,4 @@
-# Good Movie Bad Movie - IMDB Movie Review Sentiment Analyzer
+# VibeCheck - IMDB Movie Review Sentiment Analyzer
 
 A production-ready sentiment analysis that classifies movie reviews as positive or negative using machine learning. Built with scikit-learn and Flask, this project demonstrates end-to-end ML workflow from data preprocessing to model deployment.
 
@@ -162,14 +162,4 @@ python unittest_file.py
 
 ## 👤 Author
 
-Yash Kumar Gols
-
-## 🙏 Acknowledgments
-
-- IMDB dataset for movie reviews
-- scikit-learn community for excellent ML tools
-- Flask community for web framework support
-
----
-
-**Project Name Suggestion**: SentiFlow - A smooth, flowing sentiment analysis experience
+Yash Kumar Gola
